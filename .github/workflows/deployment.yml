@@ -25,4 +25,8 @@ jobs:
             git fetch --all
             git reset --hard origin/main
             echo "Deployment completed!"
+<<<<<<< HEAD
           EOF
+=======
+          EOF
+>>>>>>> 2fc346e28445e87e9a67289bf1b3e56d054da7b8
