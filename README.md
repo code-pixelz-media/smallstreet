@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 YAM JAM: You And Me Just Alternative Money
 
 > **Earn a Billion XP** — Join the ultimate gamified exchange challenge where every action builds your Legacy XP!
@@ -210,3 +211,7 @@ Every seller can sponsor a new POC and earn **1 Trillion XP** while building the
 ---
 
 *Ready to earn your first billion XP? Join the YAM JAM revolution today!* 🚀✨ 
+=======
+# Smallstreet
+A gamified platform that rewards users with XP points for social shares and interactions, integrating seamlessly with WordPress to foster community engagement.
+>>>>>>> a292171413e7f83e9a5ad12b4100b9675ac75080
